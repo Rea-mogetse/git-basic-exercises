@@ -1,0 +1,276 @@
+    1  man sudo_root
+    2  pwd
+    3  ls
+    4  sudo apt update
+    5  sudo apt upgrade
+    6  python --version
+    7  python3 version
+    8  python3 --version
+    9  list
+   10  apt-get install git
+   11  sudo apt-get install git
+   12  add-apt-repository ppa:git-core/ppa
+   13  sudo add-apt-repository ppa:git-core/ppa
+   14  sudo apt update
+   15  sudo apt install git
+   16  .source/bin/activate
+   17  source mbd/bin/activate
+   18  pip freeze -l
+   19  cd data
+   20  chmod 400 "rr-key-pair.pem"
+   21  pwd
+   22  ls
+   23  cd Documents
+   24  ls
+   25  cd Reas Documents
+   26  cd 'Reas Documents'
+   27  ls
+   28  cd Projects
+   29  ls
+   30  cd moving-big-data-predict-airflow
+   31  ls
+   32  cd data
+   33  ssh -i "rr-key-pair.pem" ubuntu@ec2-3-249-96-106.eu-west-1.compute.amazonaws.com
+   34  chmod 400 "rr-key-pair.pem"
+   35  ssh -i "rr-key-pair.pem" ubuntu@ec2-3-249-96-106.eu-west-1.compute.amazonaws.com
+   36  xit
+   37  cd ..
+   38  docker ps
+   39  python test.py
+   40  python3 test.py
+   41  python3 test.py
+   42  ls
+   43  cd Desktop
+   44  ls
+   45  cd moving-big-data-predict-airflow
+   46  cd data
+   47  sudo snap install hello-world
+   48  sudo snap install snap-store
+   49  curl -fsS https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /usr/share/keyrings/packages-pgadmin-org.gpg
+   50  sudo apt  install curl
+   51  curl -fsS https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /usr/share/keyrings/packages-pgadmin-org.gpg
+   52  sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/packages-pgadmin-org.gpg] https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+   53  sudo apt update && sudo apt upgrade
+   54  sudo apt install pgadmin4
+   55  sudo /usr/pgadmin4/bin/setup-web.sh
+   56  sudo NetworkManager status
+   57  python3 task1.py
+   58  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task1.py
+   59  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task2.py
+   60  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task3.py
+   61  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task4.py
+   62  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task5.py
+   63  python3 task5.py
+   64  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task5.py
+   65  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task4.py
+   66  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task5.py
+   67  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/task6.py
+   68  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task6.py
+   69  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task7.py
+   70  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task8.py
+   71  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task9.py
+   72  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task10.py
+   73  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task9.py
+   74  add-apt-repository ppa:git-core/ppa
+   75  sudo add-apt-repository ppa:git-core/ppa
+   76  sudo apt update
+   77  sudo apt install git
+   78  ls
+   79  sudo apt install zoom_amd64.deb
+   80  sudo apt install ./zoom_amd64.deb
+   81  curl https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc
+   82  cd ..
+   83  sudo add-apt-repository "$(curl https://packages.microsoft.com/config/ubuntu/20.04/mssql-server-2022.list)"
+   84  cd Downloads
+   85  ls
+   86  cd Downloads
+   87  sudo apt install ./code_1.87.2-1709912201_amd64.deb
+   88  sudo apt get update
+   89  sudo apt-get update
+   90  sudo apt-get upgrade
+   91  sudo apt install ./code_1.87.2-1709912201_amd64.deb
+   92  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task10_me.py
+   93  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task10.py
+   94  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task10_me.py
+   95  python3 task10.py
+   96  ls
+   97  cd coding_aptitudes
+   98  python3 task10.py
+   99  python3 task10_me.py
+  100  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task101.py
+  101  def task10(a, b):
+  102  # Test the function
+  103  task10("House", "computers")
+  104  /bin/python3 /home/rea/Desktop/Umuzi_Bootcamp/coding_aptitudes/task101.py
+  105  ls
+  106  cd Projects
+  107  touch question_1.md question_2.md question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13.md
+  108  ls /
+  109  cd ..
+  110  ls /
+  111  cd home
+  112  pwd
+  113  cd ../../../../
+  114  pwd
+  115  cd home
+  116  sudo mkdir -p -m 755 /etc/apt/keyrings && wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null && sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh -y
+  117  sudo apt update
+  118  sudo apt install gh
+  119  gh auth login
+  120  gh auth status
+  121  pwd
+  122  ls
+  123  cd Desktop
+  124  gh repo clone Umuzi-org/Reamogetse-Ramatsetse-219-level-1-programming-katas-python
+  125  ls
+  126  cd Umuzi_Bootcamp
+  127  Reamogetse-Ramatsetse-219-level-1-programming-katas-python
+  128  cd ..
+  129  cd Reamogetse-Ramatsetse-219-level-1-programming-katas-python
+  130  code .
+  131  git branch -a
+  132  git checkout main
+  133  git pull
+  134  git checkout -b task/1
+  135  python task1.py
+  136  python3 task1.py
+  137  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task1.py
+  138  gh status
+  139  git status
+  140  git add .
+  141  git commit -m "added task1"
+  142  git config --global user.email "rea.sapien@gmail.com"
+  143  git config --global user.name "Rea"
+  144  git commit -m "added task1"
+  145  git push origin task/1
+  146  git checkout -b task/2
+  147  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task2.py
+  148  how to check if a number has another number in python function/bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task2.py
+  149  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task2.py
+  150  git add .
+  151  git commit -m "added task2"
+  152  git push origin task/2
+  153  git checkout -b task/3
+  154  git checkout main
+  155  git pull
+  156  git checkout -b task/3
+  157  git checkout task/3
+  158  git checkout main
+  159  git branch -d task/3
+  160  git branch -D task/3
+  161  git checkout task/3
+  162  git checkout -b task/3
+  163  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task3.py
+  164  git add .
+  165  git commit -m "added task3"
+  166  git push origin task/3
+  167  git checkout main
+  168  git pull
+  169  git checkout -b task/4
+  170  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task4.py
+  171  git add .
+  172  git commit -m "added task4"
+  173  git push origin task/4
+  174  gh pr create
+  175  git checkout main
+  176  git pull
+  177  git checkout -b task/5
+  178  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task5.py
+  179  git checkout main 
+  180  git pull
+  181  git checkout -b /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  182  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  183  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task5.py
+  184  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  185  range(-100, n+1)/bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  186  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  187  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task6.py
+  188  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  189  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task6.py
+  190  git pull
+  191  git checkout -b task/6
+  192  git add task6.py
+  193  git commit -m 'added task 6'
+  194  git push origin task/6
+  195  git checkout main
+  196  git pull
+  197  /bin/python3
+  198  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task2.py
+  199  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  200  git checkout task/4
+  201  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  202  git branch -a
+  203  git checkout main
+  204  git pull
+  205  git checkout -b task/5
+  206  git checkout task/5
+  207  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task5.py
+  208  git add .
+  209  git commit -m 'added task5'
+  210  git push origin task/5
+  211  git checkout main
+  212  git checkout task/5
+  213  gh pr create
+  214  git checkout main
+  215  git pull
+  216  git checkout -b task/7
+  217  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/task7.py
+  218  /bin/python3 /home/rea/Desktop/Reamogetse-Ramatsetse-219-level-1-programming-katas-python/test.py
+  219  git checkout main
+  220  pwd
+  221  cd Desktop
+  222  mkdir git-basic-exercises
+  223  cd git-basic-exercises/
+  224  ls -a
+  225  git init
+  226  ls -a
+  227  git status
+  228  touch README.md
+  229  ls -a
+  230  git status
+  231  git log
+  232  git add .
+  233  git status
+  234  git commit -m "initial commit"
+  235  git log
+  236  q
+  237  nano README.md
+  238  cat README.md 
+  239  git status
+  240  git commit -m "second commit"
+  241  git add .
+  242  git commit -m "second commit"
+  243  git pull
+  244  nano README.md
+  245  cat README.md 
+  246  git add .
+  247  git commit -m "third commit"
+  248  git status
+  249  git log
+  250  git checkout 341889c4a3681b6b3ba1af8c32e76dcbdac6f46f
+  251  cat README.md 
+  252  git checkout main
+  253  git checkout master
+  254  cat README.md 
+  255  git branch
+  256  git branch milkshake-flavours
+  257  git branch
+  258  git checkout milkshake-flavours 
+  259  git branch
+  260  nano milkshakes.md
+  261  cat milkshakes.md 
+  262  nano milkshakes.md
+  263  cat milkshakes.md 
+  264  git status
+  265  git branch
+  266  git add .
+  267  git commit -m "added initial flavours"
+  268  git status
+  269  git log
+  270  git checkout master
+  271  git log
+  272  git status
+  273  git checkout -b history
+  274  git log
+  275  git branch
+  276  history > history.txt
